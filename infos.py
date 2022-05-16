@@ -110,8 +110,8 @@ def createStat(username,userdata,isadmin):
     msg+= '➢ Password: ' + str(userdata['moodle_password'])+'\n'
     msg+= '➢ Host: ' + str(userdata['moodle_host'])+'\n'
     if userdata['cloudtype'] == 'moodle':
-        msg+= '🏷RepoID: ' + str(userdata['moodle_repo_id'])+'\n'
-    #msg+= '🏷CloudType: ' + str(userdata['cloudtype'])+'\n'
+        msg+= '➢ RepoID: ' + str(userdata['moodle_repo_id'])+'\n'
+    #msg+= '➢ CloudType: ' + str(userdata['cloudtype'])+'\n'
     msg+= '➢ UpType: ' + str(userdata['uploadtype'])+'\n'
     if userdata['cloudtype'] == 'cloud':
         msg+= '➢ Dir: /' + str(userdata['dir'])+'\n'
