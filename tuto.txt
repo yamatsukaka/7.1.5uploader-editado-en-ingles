@@ -1,0 +1,32 @@
+👋😉Hola Bienvenido al bot
+----------------------------------
+⚙Soporte del bot:
+
+🌟 @Yama_Tsukami
+----------------------------------
+🧾Comandos el bot
+
+/start         
+/myuser        
+/host        
+/uptype      
+/proxy         
+/files                
+/tutorial
+/account
+/repoid
+/cloud
+/dir
+/zips
+
+
+✅En la parte izquierda de la parte de abajo se muestra para que son cada comando
+----------------------------------
+🔗Enlaces soportados:
+
+🔻Todos los enlases de descarga directas
+🔻Enlaces de YouTube
+🔻Enlaces de MediaFire
+----------------------------------
+
+✌️😉Que disfrute el Bot🔥
